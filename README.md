@@ -24,6 +24,8 @@ The Budget Tracker is a fast and easy way to track your money. You can set up bu
 
 # Links
 
+<img src="https://user-images.githubusercontent.com/80929740/131288573-138b7238-12eb-43e8-ac86-455fda1df2ae.png" width="600" height="400" alt="Screen shot of Tanner Carter's Budget Tracker"/>
+
 [Budget Tracker Live](https://budget-tracker-tannerc.herokuapp.com/)
 
 # Instructions
