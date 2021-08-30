@@ -42,6 +42,7 @@ The Budget Tracker is a fast and easy way to track your money. You can set up bu
 
 # Contributors
 Github: [Tanner Carter](https://github.com/TannerCarter)
+Github: [Xandromus](https://github.com/Xandromus)
 
 # Questions
 
